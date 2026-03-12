@@ -116,8 +116,4 @@ Tenho perfil analítico, orientado a resultado e melhoria contínua, com foco em
   </a>
 </p>
 
-<div align="center">
-  <sub>Aberto a oportunidades em <b>Data Analytics</b>, <b>Data Engineering</b> e <b>Business Intelligence</b> no setor de energia ⚡</sub>
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1a3a5c,0e6655&height=100&section=footer"/>
