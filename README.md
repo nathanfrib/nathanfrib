@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner de apresentação -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1a3a5c,0e6655&height=200&section=header&text=Nathan%20Faustino%20Ribeiro&fontSize=42&fontColor=00e5cc&fontAlignY=38&desc=Análise%20de%20Dados%20%7C%20Sistemas%20de%20Potência%20%7C%20Energias%20Renovavéis%20%7C%20Mercado%20de%20Energia&descAlignY=58&descColor=a8d8ea&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1a3a5c,0e6655&height=200&section=header&text=Nathan%20Ribeiro&fontSize=42&fontColor=00e5cc&fontAlignY=38&desc=Análise%20de%20Dados%20%7C%20Sistemas%20de%20Potência%20%7C%20Energias%20Renovavéis%20%7C%20Mercado%20de%20Energia&descAlignY=58&descColor=a8d8ea&animation=fadeIn"/>
 
 </div>
 
