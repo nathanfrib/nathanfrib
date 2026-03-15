@@ -86,7 +86,7 @@ Tenho perfil analítico, orientado a resultado e melhoria contínua, com foco em
 | [proj_curvasdepotencia_ons](inserir_link) | Pipeline ETL para análise das curvas de potência divulgadas pelo ONS | Pandas · PostgreSQL · Streamlit | ✅ Concluído |
 | [proj_curtailment_eolica](inserir_link) | Pipeline ETL para apuração dos cortes de geração em agentes de geração eólica | Pandas · SQLite · Streamlit | 🔴 Backlog |
 | [proj_curtailment_solar](inserir_link) | Pipeline ETL para apuração dos cortes de geração em agentes de geração solar | Pandas · SQLite · Streamlit  | 🔴 Backlog |
-| [proj_analisador_universal](inserir_link) | Analisador universal de arquivos de dados | Python · Pandas | ✅ Concluído |
+| [proj_analisador_universal](https://github.com/nathanfrib/proj_analisador_universal.git) | Analisador universal de arquivos de dados | Python · Pandas | ✅ Concluído |
 | [proj_disponibilidade_tempo](inserir_link) | Cálculo da disponibilidade conforme IEC 61400-26-1 (Tempo): Foca no tempo que o aerogerador está disponível para operar sem paradas técnicas ou manutenções, sendo crucial para a garantia técnica do fabricante | Python · Streamlit | 🔴 Backlog |
 | [proj_disponibilidade_energia](inserir_link) | IEC 61400-26-2 (Energia): Analisa a disponibilidade com base na energia produzida, considerando perdas devido a falhas, paradas forçadas ou condições de vento | Python · Streamlit | 🔴 Backlog |
 | [proj_tcc_rnn](https://github.com/nathanfrib/tcc_rnas_2024) | TCC — Redes Neurais Artificiais aplicadas a Sistemas de Potência | Python · Jupyter · ML | ✅ Concluído |
