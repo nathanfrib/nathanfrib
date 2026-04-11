@@ -9,19 +9,22 @@
 
 ### ⚡ Sobre mim
 
-Engenheiro Eletricista formado pela **Universidade Federal do Ceará (UFC)**, atuando como **Analista de Pré e Pós Operação**.
-
-Minhas atribuições envolvem atuar em Data Analytics e Performance Operacional no setor de geração eólica, trabalhando diretamente com dados operacionais, indicadores e confiabilidade da geração. Atuo no Centro de Operação com foco em transformar dados operacionais em melhoria de performance, eficiência e suporte à decisão técnica. Minha experiência inclui análise de intervenções, consolidação e tratamento de dados do ONS, apuração e automação de indicadores, além do desenvolvimento de análises e relatórios utilizando Python e Power BI.
-
-Tenho perfil analítico, orientado a resultado e melhoria contínua, com foco em otimização operacional, confiabilidade da geração e uso estratégico de dados para aumento de eficiência.
+Engenheiro Eletricista formado pela Universidade Federal do Ceará (UFC), com experiência acadêmica como bolsista do Programa de Iniciação à Docência (PID), atuando nas disciplinas de Programação Computacional (DIATEC) e Eletrônica Digital (DEE).
+ 
+Atua no setor de geração de energia eólica, com foco na operação de ativos nas fases de Pré e Pós-Operação, prestando suporte ao Centro de Operação da Geração (Tempo Real). Possui experiência na análise de intervenções, elaboração e tratativas de documentos operacionais junto a agentes externos, incluindo envio de Mensagens Operacionais (MO), Autorizações de Impedimento (AI) e Autorizações para Trabalho em Equipamentos de Interligação Energizados (ATEIE).
+ 
+Desenvolve atividades de interface com o ONS (Operador Nacional do Sistema Elétrico), além de distribuidoras e transmissoras, garantindo alinhamento operacional e conformidade com os procedimentos do setor elétrico. Atua também na apuração e consolidação de indicadores operacionais, incluindo integração e análise de dados provenientes de sistemas como SAGER e SGTELEASST.
+ 
+Possui forte atuação em análise de dados, utilizando ferramentas como Python e Power BI para automatização de relatórios e geração de insights que apoiam a tomada de decisão. Destaca-se pelo pensamento analítico, visão crítica e capacidade de identificar oportunidades de melhoria, implementando soluções que aumentam a eficiência operacional.
+ 
+Profissional resiliente, adaptável a ambientes dinâmicos e de alta exigência, com foco em resultados e melhoria contínua, tanto no desenvolvimento técnico quanto pessoal.
 
 Áreas de especialização:
 
-- Data Analytics aplicado à energia
-- Performance e confiabilidade da geração
-- Indicadores operacionais e KPI
-- Automação e análise de dados
-- Operação do sistema elétrico (ONS, transmissão e distribuição)
+- Análise de Dados aplicado ao setor de energia;
+- Performance e confiabilidade da geração;
+- Indicadores operacionais, KPI e Automações;
+- Conformidade regulatória (ONS, CCEE, ANEEL).
 
 ---
 
