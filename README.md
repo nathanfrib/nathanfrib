@@ -86,8 +86,8 @@ Profissional resiliente, adaptável a ambientes dinâmicos e de alta exigência,
 
 | Projeto | Descrição | Stack | Status |
 |---|---|---|---|
-| [proj_curvasdepotencia_ons](inserir_link) | Pipeline ETL para análise das curvas de potência divulgadas pelo ONS | Pandas · PostgreSQL · Streamlit | ✅ Concluído |
-| [proj_curtailment_eolica](https://github.com/nathanfrib/proj_etl_coff_eolica) | Pipeline ETL para apuração dos cortes de geração em agentes de geração eólica | Pandas · SQLite · Streamlit | ⏳ Em andamento |
+| [proj_curvasdepotencia_ons](inserir_link) | Pipeline ETL para análise das curvas de potência divulgadas pelo ONS | Pandas · PostgreSQL · Streamlit | ⏳ Em andamento |
+| [proj_curtailment_eolica](https://github.com/nathanfrib/proj_etl_coff_eolica) | Pipeline ETL para apuração dos cortes de geração em agentes de geração eólica | Pandas · SQLite · Streamlit | ✅ Concluído |
 | [proj_curtailment_solar](inserir_link) | Pipeline ETL para apuração dos cortes de geração em agentes de geração solar | Pandas · SQLite · Streamlit  | 🔴 Backlog |
 | [proj_analisador_universal](https://github.com/nathanfrib/proj_analisador_universal.git) | Analisador universal de arquivos de dados | Python · Pandas | ✅ Concluído |
 | [proj_disponibilidade_tempo](inserir_link) | Cálculo da disponibilidade conforme IEC 61400-26-1 (Tempo): Foca no tempo que o aerogerador está disponível para operar sem paradas técnicas ou manutenções, sendo crucial para a garantia técnica do fabricante | Python · Streamlit | 🔴 Backlog |
